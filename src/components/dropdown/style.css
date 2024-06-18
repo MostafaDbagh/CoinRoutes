@@ -1,0 +1,18 @@
+#currencydropdown-currency {
+    font-size: 1.25rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+  }
+
+.currencydropdown-selection{
+  font-size: 1.2rem;
+}
+
+.currencydropdown-box{
+  
+  padding-bottom: 20px;
+  text-align: center;
+  margin: 32px auto;
+}
+

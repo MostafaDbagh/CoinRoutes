@@ -1,0 +1,7 @@
+lelt first get the data from coinbase 
+
+level 2 level three need auth 
+
+enhancment remove inline styleing 
+make socket.io as custome hook 
+add more style for the ladder  

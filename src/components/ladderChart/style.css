@@ -1,0 +1,38 @@
+/* src/components/LadderView.css */
+.ladder-view {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.ladder-table {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.ladder-column {
+  flex: 1;
+  margin: 0 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+th {
+  background-color: #f2f2f2;
+  text-align: left;
+}
+
+.spread {
+  margin-top: 20px;
+}
